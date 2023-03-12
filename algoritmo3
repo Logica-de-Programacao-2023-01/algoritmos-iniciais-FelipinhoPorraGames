@@ -1,7 +1,7 @@
 1. ler numeros
 2. ler tamanho_lista
-3, soma = 0
+3. soma = 0
 para cada numero da lista
 4. soma = numero_lista + soma
-5. media = soma / tamanho_lista
+5. var media = soma / tamanho_lista
 6. escreva media
