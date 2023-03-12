@@ -1,0 +1,8 @@
+Algoritmo de busca linear: um algoritmo que procura por um determinado elemento em uma lista, verificando cada elemento da lista até encontrá-lo.
+
+1. ler lista de numeros
+2. ler numero_selecionado
+3. faça isso para cada numero da lista:
+4. se "numero_selecionado" = true
+5. entao, responda com: este é o número selecionado.
+6. senao, responda com: este nao é o número selecionado.
