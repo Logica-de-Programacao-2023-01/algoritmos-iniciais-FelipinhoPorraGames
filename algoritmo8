@@ -7,5 +7,5 @@ Algoritmo de cálculo de área de um triângulo: um algoritmo que calcula a áre
 numero da base = base_triangulo
 numero da altura = altura_triangulo
 
-4. var resultado = base_triangulo * altura_triangulo / 2
+4. var resultado = (base_triangulo * altura_triangulo) / 2
 5. informe o resultado. 
