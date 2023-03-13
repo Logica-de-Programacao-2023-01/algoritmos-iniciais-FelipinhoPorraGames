@@ -1,7 +1,12 @@
 Algoritmo de cálculo de média ponderada: um algoritmo que calcula a média ponderada de uma lista de números com base nos pesos fornecidos.
 
-1. ler: peso
-2. ler: valor
-
-3. var resultado_media = (peso * valor / peso)
-4. escreva resultado_media
+1. ler: lista_numeros
+2. ler: lista_pesos
+3. var somatorio = o
+4. var somatorio_pesos = 0
+5. para cada elemento da lista_numeros, faça:
+6.    somatorio = somatorio +  (elemento_atual * peso_correspondente)
+7. para cada elemento da lista_pesos, faça:
+8.    somatorio_pesos = somatorio_pesos + elemento_atual
+9. resultado = somatorio/somario_pesos
+10. escreva resultado
